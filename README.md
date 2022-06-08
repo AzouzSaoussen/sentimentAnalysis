@@ -1,0 +1,2 @@
+# sentimentAnalysis
+Arabic sentiment analysis 
